@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+flask-restful
+Flask-Script
+Flask-Migrate
+nose
+nose-cov
+psycopg2
+six
+flask-testing
